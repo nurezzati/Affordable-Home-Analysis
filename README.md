@@ -1,9 +1,13 @@
 # Affordable-Home-Analysis
 
+![image](Housing.png)
+
 This project is part of my internship assignment where my team and I were tasked to conduct market research on affordable housing in the Klang Valley region. Shoutout to Far Loon, my intenrship supervisor for giving me the opportunity to be a part of this project. It is a wholesome project and I have so many things to learn from it.  
-Full market research report comprising research insights and output can be accessed here: https://www.aleevar.com/post/the-state-of-klang-valley-affordable-housing-kvah-supply
+
+Full market research report comprising research insights and output can be accessed in Aleevar website: https://www.aleevar.com/post/the-state-of-klang-valley-affordable-housing-kvah-supply
 
 Objective  
+
 To analyze supply dynamics and price distributions among key housing programmes and deliver insights to stakeholders.
 
 Research Methodology
