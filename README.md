@@ -1,10 +1,10 @@
-# Affordable-Home-Analysis
+# AffordableHome Analysis
 
 ![image](Housing.png)
 
 Image credit: Aleevar Consulting: https://www.aleevar.com/post/the-state-of-klang-valley-affordable-housing-kvah-supply
 
-This project is part of my internship assignment where my team and I were tasked to conduct market research on affordable housing in the Klang Valley region. Shoutout to Far Loon, my intenrship supervisor for giving me the opportunity to be a part of this project. It is a wholesome project and I have so many things to learn from it.  
+This project is part of my internship assignment where my team and I were tasked to conduct market research on affordable housing in the Klang Valley region. Shoutout to Far Loon, my internship supervisor for giving me the opportunity to be a part of this project. It is a wholesome project and I have so many things to learn from it.  
 
 Full market research report comprising research insights and output can be accessed in Aleevar website: https://www.aleevar.com/post/the-state-of-klang-valley-affordable-housing-kvah-supply
 
@@ -15,7 +15,7 @@ To analyze supply dynamics and price distributions among key housing programmes 
 Research Methodology
 
 1. Desktop Research: I gathered data from authoritative sources, including National Property Information Centre (NAPIC), Department of Statistics Malaysia (DOSM), and various government programme portals (e.g., Residensi Wilayah, Rumah Selangorku, Residensi Prihatin).
-2. Data Visualization: The insights were presented using various charts via Flourish to show clear visual narratives around population trends, housing supply, and programme performance.
+2. Data Visualization: The data collected were consolidated andt the insights were presented using various charts via Flourish to show clear visual narratives around population trends, housing supply, and programme performance.
 
 --> Review Process: All findings and visuals were reviewed and cross-checked by my superior. Upon approval, the final report was submitted to the stakeholder and published on the company’s website. 
 
