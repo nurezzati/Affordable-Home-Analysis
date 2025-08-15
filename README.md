@@ -15,7 +15,7 @@ To analyze supply dynamics and price distributions among key housing programmes 
 Research Methodology
 
 1. Desktop Research: I gathered data from authoritative sources, including National Property Information Centre (NAPIC), Department of Statistics Malaysia (DOSM), and various government programme portals (e.g., Residensi Wilayah, Rumah Selangorku, Residensi Prihatin).
-2. Data Visualization: The data collected were consolidated andt the insights were presented using various charts via Flourish to show clear visual narratives around population trends, housing supply, and programme performance.
+2. Data Visualization: The data collected were consolidated and the insights were presented using various charts via Flourish to show clear visual narratives around population trends, housing supply, and programme performance.
 
 --> Review Process: All findings and visuals were reviewed and cross-checked by my superior. Upon approval, the final report was submitted to the stakeholder and published on the company’s website. 
 
