@@ -1,4 +1,4 @@
-# AffordableHome Analysis
+# Affordable Home Analysis
 
 ![image](Housing.png)
 
